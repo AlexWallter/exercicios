@@ -26,7 +26,7 @@ public class Tarefa {
   public String toString() {
     return "Tarefa{" +
         "descricao='" + description + '\'' +
-        ", concluida=" + isPending +
+        ", pendente=" + isPending +
         '}';
   }
     
